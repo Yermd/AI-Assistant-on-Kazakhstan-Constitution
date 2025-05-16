@@ -1,7 +1,6 @@
 streamlit
-openai
-chromadb
+pymupdf
 langchain
+langchain-community
+chromadb
 tiktoken
-python-dotenv
-PyMuPDF
